@@ -21,6 +21,7 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ChakraUI-informational?style=flat&logo=chakraui&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Vs-code?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 
 <!--
