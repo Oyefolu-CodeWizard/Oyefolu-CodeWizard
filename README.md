@@ -4,7 +4,7 @@
 
 <!-- # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> thanks for stopping by
 
-### I am ✨ Ogada Stanley Chinedu ✨, -->
+### I am ✨ Oyefolu Toyyib Adeyemi ✨, -->
 
 # Web Developer 
 
@@ -52,19 +52,19 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
 </a>
 
-<!-- <a href="https://github.com/chineduogada/react-rapid-carousel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=react-rapid-carousel&theme=dracula" />
+<!-- <a href="https://github.com/Oyefolu-CodeWizard/react-rapid-carousel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=react-rapid-carousel&theme=dracula" />
 </a>
 
 
-<a href="https://github.com/chineduogada/newspaper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=newspaper&theme=dark" />
+<a href="https://github.com/Oyefolu-CodeWizard/newspaper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=newspaper&theme=dark" />
 </a>   
 
 --
 
-<a href="https://github.com/chineduogada/sr-react-dev-fulfil-exercise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=sr-react-dev-fulfil-exercise&theme=dark" />
+<a href="https://github.com/Oyefolu-CodeWizard/sr-react-dev-fulfil-exercise">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=sr-react-dev-fulfil-exercise&theme=dark" />
 </a>  -->
 
 
