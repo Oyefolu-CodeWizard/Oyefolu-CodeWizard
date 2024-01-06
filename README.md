@@ -49,29 +49,29 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 </a>
 
 <a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&show_icons=true&theme=dracula&langs_count=8" />
 </a>
 
-<!-- <a href="https://github.com/Oyefolu-CodeWizard/react-rapid-carousel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=react-rapid-carousel&theme=dracula" />
+<a href="https://github.com/Oyefolu-CodeWizard">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
+</a>  
+
+ <!--<a href="https://github.com/Oyefolu-CodeWizard/Quiz-Appl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Quiz-App&theme=dracula" />
 </a>
 
 
-<a href="https://github.com/Oyefolu-CodeWizard/newspaper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=newspaper&theme=dark" />
+<a href="https://github.com/Oyefolu-CodeWizard/Pagination">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Pagination&theme=dracula" />
 </a>   
 
---
-
+<!--
 <a href="https://github.com/Oyefolu-CodeWizard/sr-react-dev-fulfil-exercise">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=sr-react-dev-fulfil-exercise&theme=dark" />
 </a>  -->
 
 
 
-<a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a>  
 
 <!-- links to social media icons -->
 
