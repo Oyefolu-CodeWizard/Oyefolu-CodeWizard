@@ -47,24 +47,24 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 ## &#x1f4c8; GitHub Stats
 
  <a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oyefolu-CodeWizard&count_private=true&show_icons=true&theme=tokyonight" alt="Oyefolu Toyyib Adeyemi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oyefolu-CodeWizard&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyefolu Toyyib Adeyemi's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&show_icons=true&theme=dracula&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
 
-<a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a>  <br/>
+<!--<a href="https://github.com/Oyefolu-CodeWizard">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&bg_color=bg_color=1d1f21&date_format=M%20j%5B%2C%20Y%5D" /> 
+</a>  <br/> -->
 
- <a href="https://github.com/Oyefolu-CodeWizard/Quiz-Appl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Quiz-App&theme=dracula" />
+ <a href="https://github.com/Oyefolu-CodeWizard/Quiz-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Quiz-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
 </a>
 
 
 <a href="https://github.com/Oyefolu-CodeWizard/Todo-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Todo-List&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Todo-List&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
 </a>   
 
 <!--
@@ -79,21 +79,20 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 
 <!-- icons with padding -->
 
-<!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding) -->
+ [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding) 
 
 <!-- icons without padding -->
 
-<!--
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)-->
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
 
-<!-- [1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/ -->
+[1]: https://twitter.com/teee__boy
+[2]: https://github.com/Oyefolu-CodeWizard
+[3]: https://www.linkedin.com/in/toyyib-oyefolu/
 
 
 <!-- Resources -->
