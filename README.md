@@ -48,11 +48,11 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 
  <a href="https://github.com/Oyefolu-CodeWizard">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oyefolu-CodeWizard&count_private=true&show_icons=true&theme=tokyonight" alt="Oyefolu Toyyib Adeyemi's GitHub Stats" />
-</a>
+</a> <br/>
 
 <a href="https://github.com/Oyefolu-CodeWizard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&show_icons=true&theme=dracula&langs_count=8" />
-</a>
+</a><br/>
 
 <a href="https://github.com/Oyefolu-CodeWizard">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
