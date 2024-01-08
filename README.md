@@ -2,14 +2,16 @@
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-<!-- # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> thanks for stopping by
 
-### I am ✨ Oyefolu Toyyib Adeyemi ✨, -->
+<!-- ### I am ✨ Oyefolu Toyyib Adeyemi ✨, -->
 
 # Web Developer 
 
 View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio Website</a>
 
+ # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> thanks for stopping by
+
+ My name is Oyefolu Toyyib and I'm a software engineer/Web developer. I'm from Nigeria, living in Lagos. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 ## 🔧 Technologies & Tools
