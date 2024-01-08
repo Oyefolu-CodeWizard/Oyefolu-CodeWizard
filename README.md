@@ -63,8 +63,8 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 </a>
 
 
-<a href="https://github.com/Oyefolu-CodeWizard/Pagination">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Pagination&theme=dracula" />
+<a href="https://github.com/Oyefolu-CodeWizard/Todo-List">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Todo-List&theme=dracula" />
 </a>   
 
 <!--
