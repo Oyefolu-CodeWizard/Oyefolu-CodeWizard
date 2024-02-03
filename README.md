@@ -9,6 +9,9 @@
 
 View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio Website</a>
 
+![Header](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1708560000&v=beta&t=8H9wcVcfLVk1aT6yqzeEiC6Y1nv77VeAYinXMosw5P4)
+
+
  # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
 
  My name is Oyefolu Toyyib and I'm a software engineer/Web developer. I'm from Nigeria, living in Lagos. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
