@@ -2,17 +2,17 @@
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-
 <!-- ### I am ✨ Oyefolu Toyyib Adeyemi ✨, -->
 
-# Web Developer 
+# Web Developer
 
 View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio Website</a>
 
- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
 
- My name is Oyefolu Toyyib and I'm a software engineer/Web developer. I'm from Nigeria, living in Lagos. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+![Header](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1708560000&v=beta&t=8H9wcVcfLVk1aT6yqzeEiC6Y1nv77VeAYinXMosw5P4)
 
+My name is Oyefolu Toyyib and I'm a software engineer/Web developer. I'm from Nigeria, living in Lagos. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -20,7 +20,7 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ChakraUI-informational?style=flat&logo=chakraui&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vs-code?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -55,45 +55,40 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 </a>
 
 <!--<a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&bg_color=bg_color=1d1f21&date_format=M%20j%5B%2C%20Y%5D" /> 
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&bg_color=bg_color=1d1f21&date_format=M%20j%5B%2C%20Y%5D" />
 </a>  <br/> -->
 
  <a href="https://github.com/Oyefolu-CodeWizard/Quiz-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Quiz-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
 </a>
 
-
 <a href="https://github.com/Oyefolu-CodeWizard/Todo-List">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Todo-List&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
-</a>   
+</a>
 
 <!--
 <a href="https://github.com/Oyefolu-CodeWizard/sr-react-dev-fulfil-exercise">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=sr-react-dev-fulfil-exercise&theme=dark" />
 </a>  -->
 
-
-
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
 
- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding) 
+[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
+[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/teee__boy
 [2]: https://github.com/Oyefolu-CodeWizard
 [3]: https://www.linkedin.com/in/toyyib-oyefolu/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
