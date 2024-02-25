@@ -1,6 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
 
 <!-- ### I am ✨ Oyefolu Toyyib Adeyemi ✨, -->
@@ -9,7 +8,8 @@
 
 View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio Website</a>
 
-![Header](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1708560000&v=beta&t=8H9wcVcfLVk1aT6yqzeEiC6Y1nv77VeAYinXMosw5P4)
+[![Header](https://raw.githubusercontent.com/Oyefolu-CodeWizard/Oyefolu-CodeWizard/main/readme_header.png "Header")](https://codewizard.thefloratives.com/)
+<!--![Header](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1708560000&v=beta&t=8H9wcVcfLVk1aT6yqzeEiC6Y1nv77VeAYinXMosw5P4)-->
 
 
  # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
