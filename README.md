@@ -67,7 +67,7 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 
 
 <a href="https://github.com/Oyefolu-CodeWizard/Todo-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Todo-List&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Guess-My-Number-Game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
 </a>   
 
 <!--
