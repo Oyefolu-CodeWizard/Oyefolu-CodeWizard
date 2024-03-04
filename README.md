@@ -70,13 +70,6 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Guess-My-Number-Game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
 </a>   
 
-<!--
-<a href="https://github.com/Oyefolu-CodeWizard/sr-react-dev-fulfil-exercise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=sr-react-dev-fulfil-exercise&theme=dark" />
-</a>  -->
-
-
-
 
 <!-- links to social media icons -->
 
