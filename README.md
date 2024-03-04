@@ -9,7 +9,6 @@
 View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio Website</a>
 
 [![Header](https://raw.githubusercontent.com/Oyefolu-CodeWizard/Oyefolu-CodeWizard/main/readme_header.png "Header")](https://codewizard.thefloratives.com/)
-<!--![Header](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1708560000&v=beta&t=8H9wcVcfLVk1aT6yqzeEiC6Y1nv77VeAYinXMosw5P4)-->
 
 
  # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
@@ -50,7 +49,7 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 ## &#x1f4c8; GitHub Stats
 
  <a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oyefolu-CodeWizard&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyefolu Toyyib Adeyemi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oyefolu-CodeWizard&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyefolu Toyyib Adeyemi's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Oyefolu-CodeWizard">
