@@ -19,6 +19,7 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
@@ -56,9 +57,9 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
 
-<!--<a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&bg_color=bg_color=1d1f21&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a>  <br/> -->
+<a href="https://github.com/stanleyogada">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&theme=highcontrast&currStreakLabel=ffffff&ring=ffffff&fire=2bbc8a&background=1d1f21&date_format=M%20j%5B%2C%20Y%5D" /> 
+</a>  </br>
 
  <a href="https://github.com/Oyefolu-CodeWizard/Quiz-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Quiz-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
