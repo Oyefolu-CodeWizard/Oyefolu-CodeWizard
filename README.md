@@ -88,7 +88,7 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 
 [1]: https://twitter.com/teee__boy
 [2]: https://github.com/Oyefolu-CodeWizard
-[3]: https://www.linkedin.com/in/toyyib-oyefolu/
+[3]: https://www.linkedin.com/in/toyyiboyefolu/
 
 
 <!-- Resources -->
