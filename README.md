@@ -51,7 +51,7 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 ## &#x1f4c8; GitHub Stats
 
  <a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oyefolu-CodeWizard&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyefolu Toyyib Adeyemi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oyefolu-CodeWizard&show=reviews%2Cprs_merged&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyefolu Toyyib Adeyemi's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Oyefolu-CodeWizard">
