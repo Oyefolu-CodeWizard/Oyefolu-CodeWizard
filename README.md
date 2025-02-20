@@ -62,7 +62,7 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
 </a>
 
 <a href="https://github.com/Oyefolu-CodeWizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&hide=css,tex&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyefolu-CodeWizard&hide=css,html,tex&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
 
 <a href="https://github.com/stanleyogada">
