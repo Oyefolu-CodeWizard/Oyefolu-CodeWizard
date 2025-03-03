@@ -69,8 +69,8 @@ View my works: <a href="https://www.codewizard.thefloratives.com/">My Portfolio 
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Oyefolu-CodeWizard&theme=highcontrast&currStreakLabel=ffffff&ring=ffffff&fire=2bbc8a&background=1d1f21&date_format=M%20j%5B%2C%20Y%5D" /> 
 </a>  </br>
 
- <a href="https://github.com/Oyefolu-CodeWizard/Quiz-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=Quiz-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
+ <a href="https://github.com/Oyefolu-CodeWizard/frontend-quiz-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oyefolu-CodeWizard&repo=frontend-quiz-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
 </a>
 
 
